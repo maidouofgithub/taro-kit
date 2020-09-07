@@ -1,3 +1,11 @@
+<!--
+ * @Author: starkwang
+ * @Contact me: https://shudong.wang/about
+ * @Date: 2019-09-16 13:55:47
+ * @LastEditors: starkwang
+ * @LastEditTime: 2019-10-24 15:37:26
+ * @Description: file content
+ -->
 
 
 
@@ -8,13 +16,25 @@
 
 > 1年前输出了一套taro-kit 脚手架，有不少人加我微信，咨询一些问题，这段时间把这个脚手架升级后，总结并录制了课程，希望能帮助到大家，提高效率，节约时间。
 
-## 项目更新：
-> 2019年08月04日 星期日
-* 更新依赖到：1.3.11
 
+CLI 工具安装
+首先，你需要使用 npm 或者 yarn 全局安装@tarojs/cli，或者直接使用npx:
+
+```js
+# 使用 npm 安装 CLI
+$ npm install -g @tarojs/cli
+# OR 使用 yarn 安装 CLI
+$ yarn global add @tarojs/cli
+# OR 安装了 cnpm，使用 cnpm 安装 CLI
+$ cnpm install -g @tarojs/cli
+```
+
+## 项目更新：
+> 2020年03月04日 星期三
+* 更新依赖到：2.0.5
 ## 更新项目依赖包：
 ```
-taro update project
+taro update project v版本号
 ```
 > 
 ![2019-04-28-17-37-43](http://s.shudong.wang/2019-04-28-17-37-43.png)
@@ -64,9 +84,9 @@ https://gitlab.com/itxishu/taro-advance.git
 ## 观看地址：  cctalk 腾讯课堂 思否编程 segmentfault
 > 上面都可以搜搜到，建议cctalk哈
 
-#### 建议cctalk购买
+#### 购买路径
 
-在 https://shudong.wang 加我微信 获得cctalk 60元优惠券
+在 https://shudong.wang 加我微信
 
 https://www.cctalk.com/m/course/168709
 
@@ -90,12 +110,12 @@ reducer 的swich简化繁琐操作，
 ![2019-04-28-22-09-17](http://s.shudong.wang/2019-04-28-22-09-17.png)
 #### 课程主站
 https://www.itxishu.com
-https://github.com/itxishu
+https://github.com/wsdo/qa
 
 
 
 #### 关于
 https://shudong.wang
 
-#### 有问题来这里提问
-http://t.shudong.wang
+#### 有问题加微信问吧
+http://shudong.wang
